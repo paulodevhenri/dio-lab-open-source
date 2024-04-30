@@ -2,7 +2,7 @@
 
 #### Em processo de aprendizagem !
 
-  ####     👇
+  ####    👇
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=paulodevhenri&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
